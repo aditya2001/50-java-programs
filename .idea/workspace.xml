@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19df03e2-4687-434e-827d-6915c2010beb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/string/P01CountOfCharactersInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/string/P02CountSpacesInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/string/P03CountVowelsInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/string/P04PalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/string/P05PrintInitialsOfName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/string/P06PrintVowelsInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/string/P07ReverseEachWordInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/string/P08ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/string/P09LargestWordInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/string/P10PrintFirstAndLastCharacterInCapital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/string/P11ReverseSequenceOfWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/string/P12TotalNumberOfCharactersInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/string/P13SmallestWordInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/string/P14FirstRepeatingWordInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/string/P15PrintUniqueWordInAString.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jNG37IfFHfTJVAJRQRCW49IRH2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Anagram.executor": "Run",
+    "Application.ArrayHomogenous.executor": "Run",
+    "Application.ArrayListHeterogeneous.executor": "Run",
+    "Application.CheckPrimeNumber.executor": "Run",
+    "Application.Converta2b2c3d2Toaabbcccdd.executor": "Run",
+    "Application.ConvertaabbcccddToa2b2c3d2.executor": "Run",
+    "Application.FactorialExample.executor": "Run",
+    "Application.FirstPrimeNum.executor": "Run",
+    "Application.HighestOccuringWordInString.executor": "Run",
+    "Application.LargestKeyInMap.executor": "Run",
+    "Application.MethodOverloading.executor": "Run",
+    "Application.MethodOverridding (1).executor": "Run",
+    "Application.MethodOverridding (2).executor": "Run",
+    "Application.MethodOverridding.executor": "Run",
+    "Application.MoveNegativeNumbersToTheLeft.executor": "Run",
+    "Application.MoveNegativeNumbersToTheRight.executor": "Run",
+    "Application.MoveZeroesToTheLeft.executor": "Run",
+    "Application.MoveZeroesToTheRight.executor": "Run",
+    "Application.ObjectArrayHomogenous.executor": "Run",
+    "Application.PrimeNum.executor": "Run",
+    "Application.PrintCharacterFromCount.executor": "Run",
+    "Application.PrintCharacterWithCount.executor": "Run",
+    "Application.PrintFirstNonRepeatingInAnArray.executor": "Run",
+    "Application.PrintFirstNonRepeatingWordInAString.executor": "Run",
+    "Application.PrintLeftTriangle.executor": "Run",
+    "Application.PrintRightTriangle.executor": "Run",
+    "Application.PyramidStarPattern.executor": "Run",
+    "Application.RemoveDuplicateWordFromAString.executor": "Run",
+    "Application.RemoveDuplicatesInAnArrayUsingSet.executor": "Run",
+    "Application.RemoveElementFromArray.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.ReverseLeftTriangle.executor": "Run",
+    "Application.RotateArrayToTheRight.executor": "Run",
+    "Application.SquareStarPattern.executor": "Run",
+    "Application.Test (1).executor": "Run",
+    "Application.Test (2).executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.ThisKeyword.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/workspace/50-java-programs",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.practice.pattern" />
+      <recent name="com.practice.series" />
+      <recent name="com.practice.map" />
+      <recent name="com.practice.array" />
+      <recent name="com.practice.OOPS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.P10ReverseArray">
+    <configuration name="P04FactorialExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.number.P04FactorialExample" />
+      <module name="java-programming-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P10ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.array.P10ReverseArray" />
+      <module name="java-programming-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintLeftTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.pattern.PrintLeftTriangle" />
+      <module name="java-programming-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintRightTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.pattern.PrintRightTriangle" />
+      <module name="java-programming-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PyramidStarPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.pattern.PyramidStarPattern" />
+      <module name="java-programming-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.P10ReverseArray" />
+        <item itemvalue="Application.PyramidStarPattern" />
+        <item itemvalue="Application.PrintRightTriangle" />
+        <item itemvalue="Application.PrintLeftTriangle" />
+        <item itemvalue="Application.P04FactorialExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19df03e2-4687-434e-827d-6915c2010beb" name="Changes" comment="" />
+      <created>1721219922869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721219922869</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/map/P03PrintFirstNonRepeatingInAnArray.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/array/P05PrintPrimeAndNonPrimeInArray.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/array/P01CommonElementsInTwoArray.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/array/P04PrintFirstRepeatingInAnArray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/array/P09RemoveElementFromArray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/string/P09LargestWordInAString.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/number/P05SumOfDigitsOfNumber.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/number/P04ReverseTheNumber.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/string/P02CountSpacesInAString.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/number/P04ReverseTheNumber.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/number/P01ArmstrongNumber.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/number/P01ArmstrongNumber.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
